@@ -1,0 +1,74 @@
+{
+  "hippo:templates":   {
+    "en":     {
+      "new-news-document": "new news item",
+      "new-resource-bundle": "new resource bundle",
+      "new-news-folder": "new news item folder",
+      "new-untranslated-folder": "new untranslated folder"
+    },
+    "nl":     {
+      "new-news-document": "nieuw nieuwsbericht",
+      "new-resource-bundle": "nieuwe resource bundle",
+      "new-news-folder": "nieuwe nieuwsmap",
+      "new-untranslated-folder": "nieuwe onvertaalde map"
+    },
+    "de":     {
+      "new-news-document": "Neue News",
+      "new-resource-bundle": "Neues Resource-Bundle",
+      "new-news-folder": "Neuer News-Ordner",
+      "new-untranslated-folder": "Neuer nicht übersetzter Ordner"
+    },
+    "fr":     {
+      "new-news-document": "nouveau message d'info",
+      "new-resource-bundle": "nouveau resource bundle",
+      "new-news-folder": "nouveau dossier messages d'info",
+      "new-untranslated-folder": "nouveau dossier non traduit"
+    }
+  },
+  "hippo:types": {"hippoeventbusdemo:newsdocument":   {
+    "en":     {
+      "hippoeventbusdemo:content": "Content",
+      "hippoeventbusdemo:title": "Title",
+      "hippoeventbusdemo:introduction": "Introduction",
+      "jcr:name": "News Item",
+      "hippoeventbusdemo:date": "Date",
+      "hippoeventbusdemo:source": "Source",
+      "hippoeventbusdemo:author": "Author",
+      "hippoeventbusdemo:location": "Location",
+      "hippoeventbusdemo:image": "Image"
+    },
+    "nl":     {
+      "hippoeventbusdemo:content": "Inhoud",
+      "hippoeventbusdemo:title": "Titel",
+      "hippoeventbusdemo:introduction": "Introductie",
+      "jcr:name": "Nieuwsbericht",
+      "hippoeventbusdemo:date": "Datum",
+      "hippoeventbusdemo:source": "Bron",
+      "hippoeventbusdemo:author": "Auteur",
+      "hippoeventbusdemo:location": "Locatie",
+      "hippoeventbusdemo:image": "Afbeelding"
+    },
+    "de":     {
+      "hippoeventbusdemo:content": "Inhalt",
+      "hippoeventbusdemo:title": "Titel",
+      "hippoeventbusdemo:introduction": "Einführung",
+      "jcr:name": "News",
+      "hippoeventbusdemo:date": "Datum",
+      "hippoeventbusdemo:source": "Quelle",
+      "hippoeventbusdemo:author": "Verfasser",
+      "hippoeventbusdemo:location": "Standort",
+      "hippoeventbusdemo:image": "Abbildung"
+    },
+    "fr":     {
+      "hippoeventbusdemo:content": "Contenu",
+      "hippoeventbusdemo:title": "Titre",
+      "hippoeventbusdemo:introduction": "Introduction",
+      "jcr:name": "Message d'info",
+      "hippoeventbusdemo:date": "Date",
+      "hippoeventbusdemo:source": "Source",
+      "hippoeventbusdemo:author": "Auteur",
+      "hippoeventbusdemo:location": "Lieu",
+      "hippoeventbusdemo:image": "Image"
+    }
+  }}
+}

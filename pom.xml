@@ -273,6 +273,7 @@
       </activation>
       <modules>
         <module>bootstrap</module>
+        <module>eventhandler</module>
         <module>cms</module>
         <module>site</module>
         <module>essentials</module>
