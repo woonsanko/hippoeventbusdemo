@@ -98,6 +98,13 @@
     <appender-ref ref="audit"/>
   </logger>
 
+  <!-- Custom Demo Code -->
+  <logger additivity="false" name="org.example.hippoeventbusdemo">
+    <level value="info"/>
+    <appender-ref ref="site"/>
+    <appender-ref ref="cms"/>
+  </logger>
+
   <!-- Site logging -->
   <logger name="org.hippoecm.hst">
     <level value="warn"/>

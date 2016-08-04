@@ -5,4 +5,9 @@
   <sv:property sv:name="hipposys:className" sv:type="String">
     <sv:value>org.example.hippoeventbusdemo.eventhandler.registration.EventListenerRegisteringDaemonModule</sv:value>
   </sv:property>
+  <sv:node sv:name="hippo:moduleconfig">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>nt:unstructured</sv:value>
+    </sv:property>
+  </sv:node>
 </sv:node>
